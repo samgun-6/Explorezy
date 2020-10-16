@@ -83,6 +83,8 @@ The "Posts" page lists all posts created by all users. When logged in the user h
 
 The "Trips" page displays all public trips for both logged in and not logged in users.
 
+#### View Website at [Heroku](https://explorezy.herokuapp.com)
+
 ### Entity-Relationship (ER) Diagram
 
 ![ER Diagram](./images/er_diagram.png)
